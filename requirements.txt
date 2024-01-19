@@ -1,0 +1,4 @@
+gspread
+pandas
+google.oauth2
+google.auth.transport.requests
